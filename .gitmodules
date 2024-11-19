@@ -1,0 +1,27 @@
+[submodule "modules/Biomass_borealDataPrep"]
+	path = modules/Biomass_borealDataPrep
+	url = https://github.com/PredictiveEcology/Biomass_borealDataPrep
+[submodule "modules/Biomass_core"]
+	path = modules/Biomass_core
+	url = https://github.com/PredictiveEcology/Biomass_core
+[submodule "modules/Biomass_speciesData"]
+	path = modules/Biomass_speciesData
+	url = https://github.com/PredictiveEcology/Biomass_speciesData
+[submodule "modules/Biomass_speciesParameters"]
+	path = modules/Biomass_speciesParameters
+	url = https://github.com/PredictiveEcology/Biomass_speciesParameters
+[submodule "modules/SBW_dataPrep"]
+	path = modules/SBW_dataPrep
+	url = https://github.com/FOR-CAST/SBW_dataPrep
+[submodule "modules/SBW_recruitment"]
+	path = modules/SBW_recruitment
+	url = https://github.com/FOR-CAST/SBW_recruitment
+[submodule "modules/SBW_dispersal"]
+	path = modules/SBW_dispersal
+	url = https://github.com/FOR-CAST/SBW_dispersal
+[submodule "modules/SBW_naturalEnemies"]
+	path = modules/SBW_naturalEnemies
+	url = https://github.com/FOR-CAST/SBW_naturalEnemies
+[submodule "modules/SBW_defoliation"]
+	path = modules/SBW_defoliation
+	url = https://github.com/FOR-CAST/SBW_defoliation
